@@ -1,0 +1,361 @@
+skeletonization leg: bone
+maggots: maggots
+bone exposure tarsals: bone
+adult fly arm: fly
+discolotation head: discoloration 
+bone exposure maxilla: bone
+adult fly neck: fly
+mummification bone exposure right fibula: mummification
+ear: ear
+larvae axilla: larvae
+discoloration bloat right leg: discoloration
+larvae nose: larvae
+bone exposure humerus skeletonization: bone
+bone exposure left foot skeletonization: bone
+brown black discoloration trunk: discoloration
+delete: delete
+gray discoloration: discoloration
+hair: hair
+adult fly: fly
+bone exposure carpals: bone
+purge fluid mouth: purge
+gray discoloration abdomen: discoloration
+bone exposure humerus: bone
+right hand: hand
+ants: ants
+discoloration bloat larvae left leg: discoloration
+discoloration right leg: discoloration
+discoloration head and neck: discoloration
+discoloration foot: discoloration
+gray discoloration trunk: discoloration
+adult fly foot: fly
+fluid purge adipocere: purge
+bone exposure humerus skeltonization: bone
+nose: nose
+purge nose: purge
+head: head
+discoloration trunk: discoloration
+adult fly trnk: fly
+larvae neck: larvae
+adult fly hand: fly
+bone exposure left heel: bone
+discoloration face: discoloration
+bone exposure left humerus: bone
+purge head: purge
+bone exposure skeletonization: bone
+discoloration head: discoloration
+gray discoloration leg: discoloration
+black discoloration hand: discoloration
+bone exposure cranium: bone
+adult fly head: fly
+adult fly groin: fly
+adult fly genitals: fly
+exposed bone pelvis: bone
+bone exposure left leg: bone
+black brown discoloration head: discoloration
+black gray discoloration: discoloration
+distal ulna bone exposure: bone
+exposed bone: bone
+purge fluid adipocere: purge
+discoloration genitals: discoloration
+exposed bone arm: bone
+purge fluid eye: purge
+bone exposure leg: bone
+bone exposure mandible: bone
+purge fluid: purge
+left foot: foot
+bone exposure right leg: bone
+eye: eye
+adipocere fluid purge: purge
+discoloration: discoloration
+bee leg: bee
+insect: insect
+insect arm: insect
+purge fluid head: purge
+exposed bone foot: bone
+black brown discoloration trunk: discoloration
+test3: test3
+larvae hand: larvae
+larvae trunk: larvae
+exposed bone vertebrae: bone
+ant: ant
+bone exposure distal ulna: bone
+adult fly nose: fly
+brown discoloration head: discoloration
+discoloration abdomen: discoloration
+bone exposure skeletonization head skull: bone
+bone exposure hand: bone
+discoloration skin slip: discoloration
+brown discoloration trunk: discoloration
+discoloration chest: discoloration
+black brown discoloration leg: discoloration
+skin slippage neck: skin
+skin slip right leg: skin
+skin slip left leg: skin
+skin slippage leg: skin
+skin slippage groin: skin
+skin slip discoloration: skin
+skin slip: skin: skin
+skin slip face: skin
+skin slippage arm: skin
+skin slippage genitals: skin
+black brown discoloration hand: discoloration
+discoloration chest larvae: discoloratoin
+discoloration leg: discoloration
+black brown discoloration foot: discoloration
+discoloration arm: discoloration
+skin slippage trunk: skin
+skin slippage foot: skin
+skin slippage hand: skin
+skin slippage face: skin
+skin slippage: skin
+skin slip discoloration head: skin
+black brown discoloration whole body: discoloration
+brown discoloration leg: discoloration
+brown black discoloration head: discoloration
+discoloration right arm: discoloration
+discoloration back: discoloration
+discoloration groin: discoloration
+discoloration chest and arm: discoloration
+discoloration left arm: discoloration
+brown discoloration abdomen: discoloration
+discoloration hand: discoloration
+discoloration post bloat: discoloration
+black discoloration foot: discoloration
+gray discoloration foot: discoloration
+gray discoloration hand: discoloration
+eggs hair: eggs
+eggs: eggs
+insect eggs genitals: eggs
+eggs larvae face: eggs
+eggs hand: eggs
+eggs head: eggs
+insect eggs eye: eggs
+insect eggs head: eggs
+eggs ear: eggs
+insect eggs foot: eggs
+insect eggs arm: eggs
+eggs mouth: eggs
+eggs underarm: eggs
+insect eggs hair: eggs
+eggs axilla: eggs
+eggs leg: eggs
+eggs genitals: eggs
+eggs nose: eggs
+insect eggs: eggs
+eggs arm: eggs
+eggs head ear: eggs
+eggs anus: eggs
+insect eggs leg: eggs
+eggs trunk: eggs
+eggs eye: eggs
+insect eggs hand: eggs
+insect eggs anus: eggs
+adult fly leg: fly
+adult fly ear: fly
+adult fly trunk: fly
+adult fly mouth: fly
+adult fly face: fly
+bone exposure skull neck: skull
+skeletonization cranium skull: skull
+bone exposure skull skeltonization: skull
+mummification skull: mummification
+mummified tissue skull: mummification
+mummification desiccation skull cranium: mummification
+exposed bone skull: bone
+bone exposure skull: skull
+bone exposure skull skeletonization: skull
+bone exposure skull skeletoniziation: skull
+mummification left leg: mummification
+mummification torso post-bloat collapse: mummification
+mummification desiccation torso: mummification
+mummification abdomen: mummification
+mummification leg: mummification
+larvae arm: larvae
+insect larvae trunk: larvae
+larvae face: larvae
+larvae fluid purge adipocere: larvae
+larvae head: larvae
+larvae ear: larvae
+larvae mouth: larvae
+insect larvae head: larvae
+larvae foot: larvae
+larvae genitals: larvae
+larvae fluid purge: larvae
+larvae eye: larvae
+larvae: larvae
+larvae leg: larvae
+dupliacte: duplicate
+duplicate: duplicate
+mold foot: mold
+mold: mold
+mold leg: mold
+mold trunk: mold
+mold hand: mold
+mold arm: mold
+mold head: mold
+mummification right arm: mummification
+mummification right leg: mummification
+mummification bone exposure left leg: mummification
+mummified: mummification
+mummification arm: mummification
+mummification foot: mummification
+mummification bone exposure fibula: mummification
+mummified tissue: mummification
+mummification torso post bloat: mummification
+mummified tissue arm: mummification
+mummification: mummification
+mummified tissue leg: mummification
+mummification torso: mummification
+post-bloat mummification torso: mummification
+mummification lower leg: mummification
+mummification desiccation: mummification
+mummified tissue scalp: mummification
+mummification bone exposure foot: mummification
+bloat arm: arm
+beetle: beetle
+bloat trunk: trunk
+beetle arm: beetle
+larva: larvae
+bloat: bloat
+bloat face: bloat
+bloat head: bloat
+post bloat: post-bloat
+post-bloat abdomen collapse: post-bloat
+post-bloat collapse abdomen: post-bloat
+bloat abdomen: bloat
+bloat right leg: bloat
+post bloat abdomen collapse: post-bloat
+adipocere foot: adipocere
+skeletonized arm: bone
+skeletonized mandible: bone
+skeletonized trunk: bone
+skeletonized leg: bone
+ant leg: ant
+test4: test4
+raccoon scavenging right arm: scavenging
+raccoon scavenging left arm: scavenging
+scavenging leg: scavenging
+raccoon scavenging left leg: scavenging
+scavenging: scavenging
+scavenging hand: scavenging
+scavenging trunk: scavenging
+scavenging head: scavenging
+bone exposure raccoon scavenging right leg: scavenging
+scavenging arm: scavenging
+raccoon scavenging right leg: scavenging
+scavenged leg: scavenging
+scavenged plastic: scavenging
+scavenginh arm: scavenging
+recessed eye: eye
+black tarp: trap
+green plant: plant
+maggots soil: maggots
+maggots fluid purge: maggots
+maggots face: maggots
+maggots full body: maggots
+maggots neck: maggots
+maggots head and neck: maggots
+maggots groin: maggots
+maggots mouth and nose: maggots
+maggots left axilla: maggots
+stake: stake
+snail: snail
+cage: cage
+purge mouth: purge
+fluid discharge: purge
+test2: test2
+fluid purge: purge
+bee: bee
+bone exposure fibula: bone
+bone exposure: bone
+bone exposure radius: bone
+bulla foot: bulla
+test: test
+bulla trunk: bulla
+test1: test1
+mouth: mouth
+ai: ai
+prone: prone
+bulla: bulla
+marbling: marbling
+marbling leg: marbling
+marbling arm: marbling
+marbling trunk: marbling
+marbling left hip: marbling
+marbling hip: marbling
+marbling left leg: marbling
+marbling right leg: marbling
+bone exposure vertebrae: bone
+bone exposure ulna: bone
+bone exposure pelvis: bone
+bone exposure carpals skeletonization: bone
+bone exposure clavicle vertebrae skeletonization: bone
+bone exposure lower leg: bone
+bone exposure distal radius skeletonization: bone
+bone exposure left foot tarsals: bone
+exposed bone leg: bone
+decomposed eye: eye
+bone exposure distal radius: bone
+bone exposure distal humerus: bone
+exposed bone mandible: bone
+bone exposure cranium skeletonization: bone
+bone exposure heel: bone
+bone exposure ribs: bone
+bone exposure carpal: bone
+bone exposure skeletonization left foot: bone
+bone exposure left leg distal: bone
+bone exposure left foot: bone
+bone exposure foot: bone
+exposed bone lower leg: bone
+exposed bone trunk: bone
+bone exposure tarsals foot: bone
+bone exposure mandible skeletonization: bone
+bone exposure vertebrae skeletonization: bone
+bone exposure phalanx: bone
+bone exposure maxilla face: bone
+tattoo leg: tattoo
+supine: supine
+ants foot: ant
+practice: practice
+skeletonization: bone
+left hand: hand
+tattoo: tattoo
+collapse abdomen: post-bloat
+adipocere leg: adipocere
+adipocere trunk: adipocere
+skeletonization mandible: bone
+skeletonization arm: bone
+skeletonization trunk: bone
+adipocere: adipocere
+lividity leg: lividity
+lividity back: lividity
+lividity arm: lividity
+lividity trunk: lividity
+black plastic: plastic
+removetest: removetest
+advanced decomposition head: decomposition
+early decomposition: decomposition
+advanced decomposition hand: decomposition
+advanced decomposition foo: decompositiont
+decomposition fluid: decomposition
+early stage decomposition: decomposition
+moist decomposition soft tissue: decomposition
+advanced decomposition trunk: decomposition
+advanced decomposition: decomposition
+hair mat: hair
+desiccated tissue leg: discoloration
+maggot activity right leg: maggots
+sampling site: sampling site
+exposed dentition: exposed dentition
+suture arm: suture arm
+recognizable face: recognizable face
+distal ulna: distal ulna
+tumor arm: tumor arm
+sampling site leg: sampling site leg
+surface scatter: surface scatter
+sampling sites: sampling sites
+swollen eyelid: swollen eyelid
+medical device: medical device
+surgical implant: surgical implant
+raccoon print: raccoon print
