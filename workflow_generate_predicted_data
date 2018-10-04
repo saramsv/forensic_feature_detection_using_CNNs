@@ -1,0 +1,8 @@
+1. Generate the data using generic_train.ipynb (the format will be: image, location, tag, score)
+2. these need to be seperated by ;
+3. using this perl script to make it proper for adding to db
+cat predicted_mummification | perl -ane 'chop();@x=split(/;/);$cc=$x[1]; $cc=~s/'"'"'//g;$cc=~s/\[x/location":"[{\\"type\\":\\"rect\\",\\"geometry\\":{\\"x\\"/;$cc=~s/ y:/ \\"y\\":/;$cc=~s/(width|height)/\\"$1\\"/g;$cc=~s/\]/},\\"style\\":{}}]/;print "db.tags.insert({ \"user\" : ObjectId(\"5984676ae94fb4bc9c04bc64\"), $cc, \"image\" : \"$x[0]\", \"tag\" : \"validate $x[2] $x[3]\",\"created\" : ISODate(\"2018-04-15T10:31:00.000Z\"),\"__v\" : 0,})\n";' > mummification_db.ins
+4. replace the image name with the image path using:
+/image" : "\([A-Z0-9-]*\)
+:%s//image" : "http:\/\/localhost:3000\/2015\/\1\/Daily Photos\/\1/g
+After this all of the images have been replaced with /2015/... but some of the image names have 16D in their name which means I need to replace the 2015 with 2016. Do it with vim or whatever else you want but it hase to be done. otherwise you can not see the images in  ICPUTRID 

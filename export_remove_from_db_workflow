@@ -1,0 +1,15 @@
+1. extract all of the tags from the db:
+You should be on da1 and do:
+mongoexport --host 172.17.0.2:27017 --db mean-dev --collection tags --type=csv --fields="_id,user,location,image,tag,created,__v" --out  tags.csv.$(date +"%Y%m%d")
+
+2. Do grep "valid*" the_extracted_tags_from1 > validated_tags
+
+3. Remove the "yes" ones so we are left only with the "No" ones:
+grep -vwE "YES" validated_tags.csv > no_validated_tags.csv
+
+
+4. use format_to_db_desire.py to change the format
+5. :%s/^/db.tags.delete\(/g
+6. :%s/$/\)/g
+7. /"\(ObjectId([a-z0-9]*)\)"
+8. :%s//\1/g
